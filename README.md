@@ -1,6 +1,6 @@
 Sohail's Nation Restaurant Website
 This is the official website for Sohail's Nation Restaurant. The website is developed me Sohail Shaikh, i am a MERN Stack Developer.
-This Website Features my FrontEnd Skills.
+This Website Features my FrontEnd Skill.
 
 
 Features
